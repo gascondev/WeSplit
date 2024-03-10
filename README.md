@@ -19,7 +19,9 @@ Todos estos proyectos están sacados de la página https://www.hackingwithswift.
 
 <h3>Vista del proyecto</h3>
 
-![WeSplit](https://github.com/gascondev/WeSplit/assets/144269155/ab04daed-e352-4cd1-af97-c4a4e3fe24da)
+![Simulator Screenshot - iPhone 15 Pro - 2024-03-10 at 19 23 32](https://github.com/gascondev/WeSplit/assets/144269155/2d4ca121-7fca-4c01-be91-f8b1657e5cbe)
+
+
 
 <h2>Instalación del proyecto</h2>
 
