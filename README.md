@@ -15,7 +15,6 @@ Este proyecto no intenta construir nada complicado, porque su verdadero propósi
 
 En este proyecto, se aprende sobre la estructura básica de las aplicaciones SwiftUI, cómo crear formularios y secciones, cómo crear pilas de navegación y títulos de barras de navegación, cómo almacenar el estado del programa con los envoltorios de propiedades @State y @FocusState, cómo crear controles de interfaz de usuario como TextField y Pickery. Crear vistas en un bucle usando ForEach.
 
-Todos estos proyectos están sacados de la página https://www.hackingwithswift.com/ y su curso de "100 días de SwiftUI".
 
 <h3>Vista del proyecto</h3>
 
