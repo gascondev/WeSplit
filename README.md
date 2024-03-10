@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación para compartir cuentas que calcula cómo dividir una cuenta según la cantidad de personas y la cantidad de propina que se quiere dejar.
 
-He creado una aplicación para dividir cuentas que puedes usar después de comer en un restaurante: ingresas el cpste total de la comida, seleccionas cuánta propina quieres dejar y a cuántas personas quieres. La aplicación hará el cálculo y dirá cuanto tiene que pagar cada persona o pareja.
+He creado una aplicación para dividir cuentas que puedes usar después de comer en un restaurante: se ingresa el coste total de la comida, se selecciona cuánta propina se quiere dejar y entre cuántas personas hay que dividir. La aplicación hará el cálculo y dirá cuanto tiene que pagar cada uno (persona o pareja).
 
 Este proyecto no intenta construir nada complicado, porque su verdadero propósito es aprender los conceptos básicos de SwiftUI de una manera útil y al mismo tiempo crear un proyecto del mundo real que se puede ampliar más si se quiere.
 
