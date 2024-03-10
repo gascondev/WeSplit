@@ -19,6 +19,8 @@ Todos estos proyectos están sacados de la página https://www.hackingwithswift.
 
 <h3>Vista del proyecto</h3>
 
-
-
 ![WeSplit](https://github.com/gascondev/WeSplit/assets/144269155/ab04daed-e352-4cd1-af97-c4a4e3fe24da)
+
+<h2>Instalación del proyecto</h2>
+
+Para la instalación de este proyecto, tan solo tendremos que descargar el fichero comprimido (.zip), descomprimirlo en un PC o MAC y abrirlo con Xcode para ver todos los archivos que lo componen. Para poder utilizarla, podemos pulsar el símbolo ▶️ PLAY, situado arriba a la izquierda (o CMD ⌘ + B) para lanzar el simulador.
