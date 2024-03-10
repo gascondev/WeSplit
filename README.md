@@ -23,4 +23,4 @@ Todos estos proyectos están sacados de la página https://www.hackingwithswift.
 
 <h2>Instalación del proyecto</h2>
 
-Para la instalación de este proyecto, tan solo tendremos que descargar el fichero comprimido (.zip), descomprimirlo en un PC o MAC y abrirlo con Xcode para ver todos los archivos que lo componen. Para poder utilizarla, podemos pulsar el símbolo ▶️ PLAY, situado arriba a la izquierda (o CMD ⌘ + B) para lanzar el simulador.
+Para la instalación de este proyecto, tendremos que descargar el fichero comprimido (.zip), descomprimirlo y abrirlo con Xcode para ver todos los archivos que lo componen. Para poder utilizarla, podemos pulsar el símbolo ▶️ PLAY, situado arriba a la izquierda (o CMD ⌘ + B) para lanzar el simulador.
